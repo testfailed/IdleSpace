@@ -2,7 +2,7 @@ repo_name: todaypp/IdleSpace
 report_id: 79773757d984d9b88947076e3456a6b2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T13:14:39+00:00'
+timestamp: '2024-02-29T19:34:00+00:00'
 requested_by: scorzy
 provider: github
 branch: master
@@ -133,7 +133,7 @@ tools:
   last_updated_by: scorzy
   last_updated_on: 2019-04-03 20:13:36.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.16.4
   license: MIT
